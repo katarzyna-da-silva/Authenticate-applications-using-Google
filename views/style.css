@@ -1,0 +1,13 @@
+body {
+    background: #95AFC0;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+}
+
+button {
+    color: green;
+    width: 150px;
+}

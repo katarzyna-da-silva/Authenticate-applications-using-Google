@@ -1,0 +1,19 @@
+{
+  "name": "express-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-pug",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "katarzyna-dasilva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.3"
+  }
+}
